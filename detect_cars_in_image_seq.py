@@ -1,6 +1,8 @@
 """
 Author: Eric Chio <ckieric[at]gmail[dot]com>
 Date: 2014/03/08
+Project: Macau Real Time Traffic Data Feed
+Website: http://www.chioka.in/
 
 Idea:
 - Loads an image sequence
